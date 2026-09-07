@@ -1,0 +1,6 @@
+{
+  "name": "Matific - Matematyka dla Dzieci",
+  "description": "Nagradzana platforma do nauki matematyki dla dzieci w wieku 4-12 lat z interaktywnymi grami i zadaniami zgodnymi z programem nauczania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
